@@ -453,6 +453,9 @@
     background: var(--primary);
     transition: .3s;
 }
+h1.display-1.text-uppercase.text-dark.mb-lg-4 {
+    color: #7ab730;
+}
 
 .blog-item a:hover i::after {
     width: 50px;
